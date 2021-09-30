@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Foodtionary/static/css/main.1395e6f2.chunk.css",
+    "main.js": "/Foodtionary/static/js/main.52f1da6d.chunk.js",
+    "main.js.map": "/Foodtionary/static/js/main.52f1da6d.chunk.js.map",
+    "runtime-main.js": "/Foodtionary/static/js/runtime-main.4a482b47.js",
+    "runtime-main.js.map": "/Foodtionary/static/js/runtime-main.4a482b47.js.map",
+    "static/js/2.4475311b.chunk.js": "/Foodtionary/static/js/2.4475311b.chunk.js",
+    "static/js/2.4475311b.chunk.js.map": "/Foodtionary/static/js/2.4475311b.chunk.js.map",
+    "index.html": "/Foodtionary/index.html",
+    "static/css/main.1395e6f2.chunk.css.map": "/Foodtionary/static/css/main.1395e6f2.chunk.css.map",
+    "static/js/2.4475311b.chunk.js.LICENSE.txt": "/Foodtionary/static/js/2.4475311b.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Foodtionary/static/media/WBC_7095.0837e5b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a482b47.js",
+    "static/js/2.4475311b.chunk.js",
+    "static/css/main.1395e6f2.chunk.css",
+    "static/js/main.52f1da6d.chunk.js"
+  ]
+}
